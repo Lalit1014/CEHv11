@@ -1131,7 +1131,7 @@ https://blog.eccouncil.org/dread-threat-modeling-an-introduction-to-qualitative-
     - Be paranoid on Social Media
     - Disable location services
     - Sanitize job listings
-
+## Module 3
 **Network Scanning Types**
 1. Identify and apply the 3 types of network scanning
 2. State the objectives of network scanning
@@ -1529,7 +1529,7 @@ Capture SCTP traffic with Wireshark for demo
     - TOR
         - Tails
         - Whonix
-
+## Module 4
 **Enumeration Basics**
 1. Define Enumeration 
 2. List assets targeted during Enumeration process
@@ -1710,7 +1710,7 @@ Capture SCTP traffic with Wireshark for demo
     - Brute-Force login
     - Version info
         - Known vulnerabilities?
-
+## Module 5
 **Vulnerability Assessment Concepts and Resources**
 1. Define vulnerability research and explain its usefulness in the VA process
 2. List common resources used when conducting vulnerability research
@@ -1872,6 +1872,7 @@ Capture SCTP traffic with Wireshark for demo
 2. Define the form and function of a VA report and its attributes
 - Just go over a VA report and talk about the results and report details.
 
+## Module 6
 **CEH Hacking Methodology and Goals**
 1. List and describe the phases of the CEH Hacking Methodology
 2. List and describe the goals of an attacker at specific phases of CEH Hacking Methodology
@@ -1919,6 +1920,8 @@ Capture SCTP traffic with Wireshark for demo
         - Hide/obfuscate evidence
             - Techniques
                 - Log clearing
+
+
 **Windows Authentication**       
 1. Explain the process used for authentication by the Security Account Manager, NTLM and Kerberos
 - Windows Security Accounts Manager(SAM) Database
@@ -2061,6 +2064,8 @@ Capture SCTP traffic with Wireshark for demo
             - Key loggers
                 - Software-based
                 - Hardware-based
+
+
 **Password Cracking Enhancement Techniques**
 1. Enhance password cracking attack efforts by utilizing techniques such as Combinator, PRINCE, Toggle-Case and Markov-Chain Attacks
 - Combinator
@@ -2242,6 +2247,7 @@ Maintaining Access
 - Disable bash history recording
 - export HISTSIZE=0
 
+## Module 7
 **Malware Concepts And Components**
 1. Define Malware
 2. List the common malware types
@@ -2644,6 +2650,7 @@ Maintaining Access
         - Disable unnecessary protocols and services
         - Use a system hardening guide, security framework
 
+## Module 8
 **Network Sniffing Basics**
 1. Define Network Sniffing
 2. Explain the process of network sniffing
@@ -2846,6 +2853,7 @@ Maintaining Access
         - DNS Sinkhole
     - Encryption of DNS traffic
 
+## Module 9
 **Social Engineering Concepts and Attacks**
 1. Define Social Engineering
 2. Catalog common targets and impact of social engineering
@@ -3013,6 +3021,7 @@ Maintaining Access
     - Stop receiving benefits
     - Unjustly denied insurance claims
 
+## Module 10
 **DoS and DDoS Attacks**
 1. Define DoS and DDoS attacks
 2. List and explain DoS attacks types
@@ -3220,6 +3229,7 @@ Maintaining Access
         - Encryption
         - No unused/unnecessary ports/services
 
+## Module 11
 **Session Hijecking Concepts**
 1. Define Session Hijecking
 2. Explain why session hijecking is successful
@@ -3384,7 +3394,8 @@ Maintaining Access
             - Set sessions to expire after logout
 - Set sessions to expire more quickly
 
-**IDS and IPS**
+## Module 12
+**IDS and IPS Concepts**
 1. Define what an IDS/IPS is and explain its function and basic process
 2. List and define the different types of IDS/IPS
 - What is an IDS?
@@ -3493,6 +3504,7 @@ Maintaining Access
     - https://www.honeynetproject.com/honeypots.html
     - https://sourceforge.net/projects/honeydrive/
 
+## Module 13
 **Web Server Hacking Concepts**
 1. Define what a web server is and its function
 2. List the components of a web server
@@ -3594,6 +3606,7 @@ Maintaining Access
             - Burp Suite
             - ZAP
 
+## Module 14
 **Web App Basics**
 - Is this a concept and vocabulary episode?
     - Absolutely!
@@ -3854,6 +3867,7 @@ A10: Insufficient Logging and Monitoring
             - X-Cld-Timestamp (timing attacks)
             - X-OP-Timestamp
 
+## Module 15
 **SQL Injection Concepts**
 1. Define what SQLi is 
 2. List and explain the different types of SQLi
@@ -4052,6 +4066,7 @@ A10: Insufficient Logging and Monitoring
             - PHP shell, since this is a PHP app
             - Custom web root (/var/www/bWAPP/documents/)
 
+## Module 16
 **Wireless Basics**
 - Wireless features
     - AP (Access Point)
@@ -4262,6 +4277,7 @@ A10: Insufficient Logging and Monitoring
                     - Adjacent buildings
         - Packet Capture and Analysis
 
+## Module 17
 **Mobile Hacking Basics**
 - Mobile Attack Surfaces
     - Mobile Device itself
@@ -4501,6 +4517,7 @@ A10: Insufficient Logging and Monitoring
     - Keep app installs to a minimum
     - Use AV/Anti-spyware
 
+## Module 18
 **IoT Basics**
 - Define IoT
     - "The process of connecting everyday objects and systems to networks in order to make them globally available and interactive." - Daniel Miessler
@@ -4767,6 +4784,7 @@ A10: Insufficient Logging and Monitoring
     - OT Specific monitoring solutions
     - Honeypots/Honeynets (conpot)
 
+## Module 19
 **Cloud Computing Basics**
 - Types of Cloud Services
     - IaaS
@@ -5034,6 +5052,7 @@ A10: Insufficient Logging and Monitoring
     - Sumo Logic
         - https://www.sumologic.com
 
+## Module 20
 **Crytography Basics**
 - Purpose of Cryptography
     - Protect CIA + Non-Repudiation
